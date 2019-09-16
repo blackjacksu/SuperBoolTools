@@ -57,6 +57,12 @@ namespace PingInternetOnBoot
                         logger.Close();
                     }
                 }
+                else
+                {
+                    Console.WriteLine("Reply is Null");
+                    logger.WriteLine(DateTime.Now + " => Status : Reply is NULL");
+                    logger.Close();
+                }
             }
             catch (Exception e)
             {
