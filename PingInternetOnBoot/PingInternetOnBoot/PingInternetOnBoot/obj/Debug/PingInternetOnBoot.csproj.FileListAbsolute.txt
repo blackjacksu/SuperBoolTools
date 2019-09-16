@@ -17,3 +17,10 @@ D:\DailyMission\VM5 related res\PingInternetOnBoot\PingInternetOnBoot\PingIntern
 D:\DailyMission\VM5 related res\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\obj\Debug\PingInternetOnBoot.csproj.CoreCompileInputs.cache
 D:\DailyMission\VM5 related res\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\obj\Debug\PingInternetOnBoot.exe
 D:\DailyMission\VM5 related res\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\obj\Debug\PingInternetOnBoot.pdb
+D:\DailyMission\Tools\SuperBoolTools\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\bin\Debug\PingInternetOnBoot.exe.config
+D:\DailyMission\Tools\SuperBoolTools\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\bin\Debug\PingInternetOnBoot.exe
+D:\DailyMission\Tools\SuperBoolTools\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\bin\Debug\PingInternetOnBoot.pdb
+D:\DailyMission\Tools\SuperBoolTools\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\obj\Debug\PingInternetOnBoot.csprojAssemblyReference.cache
+D:\DailyMission\Tools\SuperBoolTools\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\obj\Debug\PingInternetOnBoot.csproj.CoreCompileInputs.cache
+D:\DailyMission\Tools\SuperBoolTools\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\obj\Debug\PingInternetOnBoot.exe
+D:\DailyMission\Tools\SuperBoolTools\PingInternetOnBoot\PingInternetOnBoot\PingInternetOnBoot\obj\Debug\PingInternetOnBoot.pdb

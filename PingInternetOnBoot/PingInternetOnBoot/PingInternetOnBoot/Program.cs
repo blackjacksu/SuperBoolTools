@@ -52,16 +52,16 @@ namespace PingInternetOnBoot
                     }
                     else
                     {
-                        Console.WriteLine("ERROR: You have Some TIMEOUT issue");
-                        logger.WriteLine(DateTime.Now + " => Status : TIMEOUT");
+                        Console.WriteLine("ERROR: You have some internet connection issue");
+                        logger.WriteLine(DateTime.Now + " => Status : " + reply.Status);
                         logger.Close();
                     }
                 }
             }
-            catch
+            catch (Exception e)
             {
-                Console.WriteLine("ERROR: You have Some TIMEOUT issue");
-                logger.WriteLine(DateTime.Now + " => Status : TIMEOUT");
+                Console.WriteLine("UnHandled Exception: " + e.ToString());
+                logger.WriteLine(DateTime.Now + " => Status : " + e.ToString());
                 logger.Close();
             }
 
